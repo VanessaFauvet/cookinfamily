@@ -7,5 +7,5 @@ Vous créerez d’abord un thème, avec une page d’administration, ainsi que v
 Objectifs pédagogiques
 À la fin de ce cours, vous serez capable de :
 - développer un thème personnalisé ;
-- ajouter du contenu dynamique et sur mesure ;
-- développer son propre plugin.
+- - ajouter du contenu dynamique et sur mesure ;
+  - - développer son propre plugin.
